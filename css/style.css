@@ -1,0 +1,40 @@
+.header{
+  text-align: center;
+  font-size: 35px;
+  min-height: 10px;
+  background-color: aqua;
+}
+.farher{
+overflow: hidden;
+border: black 7px solid;
+}
+.top{
+  text-align: justify;
+  font-size: 25px;
+  min-height: 10px;
+  width: 50%;
+  background-color:#875191;
+  padding: 10px;
+  float: left;
+}
+.bottom{
+  text-align: justify;
+  font-size: 25px;
+  min-height: 10px;
+  width: 47%;
+  background-color:#52ad7a;
+  padding: 9px;
+  float: right;
+}
+.op{
+  text-align: justify;
+  font-size: 25px;
+  min-height: 10px;
+  background-color: lightyellow;
+  padding: 5px;
+  margin: 10px;
+}
+.opp{
+  height: 100px;
+  background-color: chocolate;
+}
